@@ -1,9 +1,9 @@
 # PCA: EXP-1 SUM ARRAY GPU
 
-<h3>NAME : A joans jay  authers  </h3>
-<h3>REGISTER NO: 212221240019 </h3>
+<h3>NAME : SV ROHITHKUMAR </h3>
+<h3>REGISTER NO: 212221230084 </h3>
 <h3>EX. NO : 1</h3>
-<h3>DATE : 06.03.24</h3>
+<h3>DATE : 15-10-24 </h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
 
